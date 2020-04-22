@@ -32,7 +32,7 @@ plik1.open(nazwa);
                  plik1  >> dane.numer;
                   plik1  >> dane.imie;
                    plik1  >> dane.nazwisko;
-				    plik1  >> dane.pesel;
+		    plik1  >> dane.pesel;
                      plik1  >> dane.adres;  
                          spis.push_back(dane); 
                  }
